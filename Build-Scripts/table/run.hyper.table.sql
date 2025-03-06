@@ -1,1 +1,1 @@
-\i  ./Build-Scripts/table/hyper.user.sql
+\i  ./Build-Scripts/table/hyper.users.sql
